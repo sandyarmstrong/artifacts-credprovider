@@ -9,8 +9,9 @@
 *.userosscache
 *.sln.docstates
 
-# User-specific files (MonoDevelop/Xamarin Studio)
+# User-specific files (Visual Studio for Mac)
 *.userprefs
+.DS_Store
 
 # Build results
 [Dd]ebug/
